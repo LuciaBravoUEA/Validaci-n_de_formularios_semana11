@@ -69,3 +69,18 @@ th {
     color: #555;
     margin-top: 50px;
 }
+/* NUEVO: estilos para los botones de acción */
+.btn-accion {
+    margin: 2px;
+    padding: 5px 10px;
+    font-size: 0.9em;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    background-color: #bcbe11;
+    color: rgb(5, 5, 5);
+}
+
+.btn-accion:hover {
+    background-color: #0098b3;
+}
